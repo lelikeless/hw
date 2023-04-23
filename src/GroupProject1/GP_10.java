@@ -1,6 +1,6 @@
 package GroupProject1;
 
-public class CT10_DuplicateStrings {
+public class GP_10 {
     public static void main(String[] args) {
 
         /*
@@ -8,7 +8,7 @@ public class CT10_DuplicateStrings {
         an Array of Strings?
          */
 
-        String[] names = {"Tom", "Devid", "Dan", "Bob", "Mike", "Steve", "Jason", "Don", "Tom", "John", "Carlos", "Bob", "Mike"};
+        String[] names = {"Egor", "Margiela", "Zhanna", "German", "Daniil", "EEgor", "Alexey", "German", "Vlad"};
 
         System.out.println("The duplicate elements are: ");
         System.out.println("---------------------------");

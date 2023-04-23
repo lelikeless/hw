@@ -2,7 +2,7 @@ package GroupProject1;
 
 import java.util.Scanner;
 
-public class CT06_AnyNumberPrimeIdentifier {
+public class GP_06 {
     public static void main(String[] args) {
 
         /*

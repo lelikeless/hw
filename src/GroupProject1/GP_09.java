@@ -1,6 +1,6 @@
 package GroupProject1;
 
-public class CT09_2ndLargestNum {
+public class GP_09 {
     public static void main(String[] args) {
 
         /*

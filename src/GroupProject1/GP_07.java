@@ -1,6 +1,6 @@
 package GroupProject1;
 
-public class CT07_FibonacciSeries1st10 {
+public class GP_07 {
     public static void main(String[] args) {
 
         /*

@@ -1,6 +1,6 @@
 package GroupProject1;
 
-public class CT02_SumOfArrayElements {
+public class GP_02 {
     public static void main(String[] args) {
 
         /* Requirement Analysis

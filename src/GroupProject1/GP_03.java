@@ -1,6 +1,6 @@
 package GroupProject1;
 
-public class CT03_2dArrayEvenNumsOnly {
+public class GP_03 {
     public static void main(String[] args) {
 
         /* Analysis of requirement

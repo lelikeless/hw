@@ -1,6 +1,6 @@
 package GroupProject1;
 
-public class CT05_SwapNumbers {
+public class GP_05 {
     public static void main(String[] args) {
 
         /*

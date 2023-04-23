@@ -1,6 +1,6 @@
 package GroupProject1;
 
-public class CT08_MinNMaxNumber {
+public class GP_08 {
     public static void main(String[] args) {
 
         /*

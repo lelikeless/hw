@@ -1,6 +1,6 @@
 package GroupProject1;
 
-public class CT01_MaxNMinTemperature {
+public class GP_01 {
     public static void main(String[] args) {
 
         /* Analyzing the requirements

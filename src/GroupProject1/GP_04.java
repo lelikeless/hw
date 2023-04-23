@@ -1,6 +1,6 @@
 package GroupProject1;
 
-public class CT04_2dArraySumOfEvenNOdd {
+public class GP_04 {
     public static void main(String[] args) {
 
         /*
